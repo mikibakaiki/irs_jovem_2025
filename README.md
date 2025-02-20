@@ -1,7 +1,7 @@
 
 
 # Calculadora IRS Jovem 2025 🇵🇹
-Script em Python para calcular o IRS Jovem para 2025
+Script em Python para calcular o IRS Jovem para 2025. O script tem em consideração [esta nota](https://info.portaldasfinancas.gov.pt/pt/atualidades/instrucoesadmin/Paginas/Oficio_circulado_20274_2025.aspx).
 
 ## Descrição
 
@@ -78,7 +78,7 @@ Sente-te à vontade para abrir issues ou submeter pull requests com melhorias.
 
 
 # IRS JOVEM 2025 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-Python script to calculate IRS Jovem for 2025
+Python script to calculate IRS Jovem for 2025. The script takes into consideration [this note](https://info.portaldasfinancas.gov.pt/pt/atualidades/instrucoesadmin/Paginas/Oficio_circulado_20274_2025.aspx).
 
 ## Description
 
