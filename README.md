@@ -1,6 +1,6 @@
-:flag_pt:
 
-# Calculadora IRS Jovem 2025
+
+# Calculadora IRS Jovem 2025 🇵🇹:
 Script em Python para calcular o IRS Jovem para 2025
 
 ## Descrição
@@ -19,19 +19,19 @@ A isenção aplica-se até ao limite mensal de 2.052,68€.
 
 ## Instalação
 
-1. Clone este repositório:
+1. Clona este repositório:
 ```sh
 git clone https://github.com/yourusername/irs_jovem_2025.git
 cd irs_jovem_2025
 ```
 
-2. Torne o script executável (sistemas Unix/Linux):
+2. Torna o script executável (sistemas Unix/Linux):
 ```sh
 chmod +x calculate_irs_jovem.py
 ```
 
 ## Utilização
-Pode executar o script de duas formas:
+Podes executar o script de duas formas:
 
 1. Usando Python diretamente:
 ```sh
@@ -43,10 +43,10 @@ python3 calculate_irs_jovem.py
 ./calculate_irs_jovem.py
 ```
 
-O script irá pedir interativamente:
+O script pedirá interactivamente:
 - Salário bruto mensal
 - Número de anos de trabalho (1-10)
-- Se recebe subsídios de férias e Natal em duodécimos
+- Se recebe subsídios de Férias e Natal em duodécimos
 
 ### Exemplo de Resultado
 
@@ -68,16 +68,16 @@ Salário Líquido (€): 1335.00€
 ```
 
 ## Licença
-Este projeto está licenciado sob a Apache License 2.0 - consulte o ficheiro [LICENSE](/LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Apache License 2.0 - consulta o ficheiro [LICENSE](/LICENSE) para mais detalhes.
 
 ## Contribuições
-Sinta-se à vontade para abrir issues ou submeter pull requests com melhorias.
+Sente-te à vontade para abrir issues ou submeter pull requests com melhorias.
 
 
 
-:flag_uk:
 
-# IRS JOVEM 2025
+
+# IRS JOVEM 2025 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 Python script to calculate IRS Jovem for 2025
 
 ## Description
