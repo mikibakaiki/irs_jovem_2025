@@ -1,6 +1,6 @@
 
 
-# Calculadora IRS Jovem 2025 🇵🇹:
+# Calculadora IRS Jovem 2025 🇵🇹
 Script em Python para calcular o IRS Jovem para 2025
 
 ## Descrição
