@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import argparse
+import math
 from sys import exit
 
 def main():
@@ -46,6 +47,7 @@ A isenção é aplicada da seguinte forma:
                 break
             except ValueError:
                 print("Por favor, introduza um número inteiro válido.")
+        
         # Get Holiday and Christmas Allowances in twelfths
         while True:
             try:
@@ -127,7 +129,7 @@ def calculate_irs_jovem(salary, years_working, isDuodecimos):
     
     full_tax = calculate_full_irs(monthly_gross)
     effective_rate = full_tax / monthly_gross if monthly_gross > 0 else 0
-    irs_tax = taxable_value * effective_rate
+    irs_tax = math.floor(taxable_value * effective_rate)
 
     # Calculate Social Security and net salary
     social_security = monthly_gross * social_security_rate
